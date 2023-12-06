@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Final Project - By Janssen Valencia</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+    <body class="is-preload">
+
+        <!-- Wrapper -->
+            <div id="wrapper">
+
+                <!-- Header -->
+                    <header id="header">
+                        <a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+                        <nav>
+                            <a href="#menu">Menu</a>
+                        </nav>
+                    </header>
+
+                <!-- Menu -->
+                    <nav id="menu">
+                        <ul class="links">
+                            <li><a href="Home.html">Home</a></li>
+                            <li><a href="PrelimHOA.html">Prelim Activities</a></li>
+                            <li><a href="MidtermHOA.html">Midterm Activities</a></li>
+                            <li><a href="FinalHOA.html">Final Activities</a></li>
+                        </ul>
+                        <ul class="actions stacked">
+                            <li><a href="#" class="button primary fit">Get Started</a></li>
+                            <li><a href="#" class="button fit">Log In</a></li>
+                        </ul>
+                    </nav>
+
+                <!-- Main -->
+                    <div id="main" class="alt">
+
+                        <!-- One -->
+                            <section id="one">
+                                <div class="inner">
+                                    <header class="major">
+                                        <h1>Activity 2: SSH Key-Based Authentication and Setting up Git</h1>
+                                    </header>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>1.1 Hands-on Activity - Creating Virtual Machines_Valencia</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+            text-indent: 0;
+            color: white; /* Set text color to white */
+        }
+
+        /* Add CSS rules to center images */
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        .s1, .s2, .s3, h1, .p, p, .s5, .s6, .s7, .s8 {
+            font-family: Arial, sans-serif;
+            font-size: 12pt;
+            margin: 0;
+        }
+
+        .s1, .h1 {
+            font-weight: bold;
+        }
+
+        .s3, .s5 {
+            font-style: italic;
+            color: #BF0000;
+        }
+
+        li {
+            display: block;
+        }
+
+        #l1, #l2, #l3, #l4, #l5, #l6, #l7, #l8, #l9, #l10, #l11, #l12, #l13, #l14, #l15, #l16, #l17, #l18, #l19 {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #l1>li>*:first-child:before, #l2>li>*:first-child:before, #l3>li>*:first-child:before, #l4>li>*:first-child:before, #l5>li>*:first-child:before,
+        #l6>li>*:first-child:before, #l7>li>*:first-child:before, #l8>li>*:first-child:before, #l9>li>*:first-child:before, #l10>li>*:first-child:before,
+        #l11>li>*:first-child:before, #l12>li>*:first-child:before, #l13>li>*:first-child:before, #l14>li>*:first-child:before, #l15>li>*:first-child:before,
+        #l16>li>*:first-child:before, #l17>li>*:first-child:before, #l18>li>*:first-child:before, #l19>li>*:first-child:before {
+            color: black;
+            font-family: Arial, sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            text-decoration: none;
+            font-size: 12pt;
+        }
+
+    </style>
+</head>
+
+CONTENT 
+
+                           <section id="three">
+                                <div class="inner">
+                                    <header class="major">
+                                        <h2>Activity 3</h2>
+                                    </header>
+                                    <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                                    <ul class="actions">
+                                        <li><a href="MidtermHOA.html" class="button next">Midterm Period</a></li>
+                                    </ul>
+                                </div>
+                            </section>
+
+                <!-- Footer -->
+                    <footer id="footer">
+                        <div class="inner">
+                            <ul class="icons">
+                                <li><a href="https://twitter.com/Mentypower" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+                                <li><a href="https://www.facebook.com/Janssen.Cute.Iwanan/" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+                                <li><a href="https://www.instagram.com/mentypower/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+                                <li><a href="https://www.github.com/MentalpowerADA" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+                                <li><a href="https://www.linkedin.com/in/mark-janssen-valencia-77639320a/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+                            </ul>
+                            <ul class="copyright">
+                                <li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+                            </ul>
+                        </div>
+                    </footer>
+
+            </div>
+
+        <!-- Scripts -->
+            <script src="assets/js/jquery.min.js"></script>
+            <script src="assets/js/jquery.scrolly.min.js"></script>
+            <script src="assets/js/jquery.scrollex.min.js"></script>
+            <script src="assets/js/browser.min.js"></script>
+            <script src="assets/js/breakpoints.min.js"></script>
+            <script src="assets/js/util.js"></script>
+            <script src="assets/js/main.js"></script>
+
+    </body>
+</html>
